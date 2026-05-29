@@ -1,5 +1,3 @@
-# beauty-diagnosis-app
-
 # Beauty Diagnosis App
 
 ## 概要
